@@ -1,0 +1,24 @@
+{
+  "name": "licenseui",
+  "version": "1.0.0",
+  "description": "Provides the licensing ui for the api",
+  "main": "index.js",
+  "scripts": {
+    "compile-html": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campus-geo/license-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/campus-geo/license-ui/issues"
+  },
+  "homepage": "https://github.com/campus-geo/license-ui#readme",
+  "type": "module",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
